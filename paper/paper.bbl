@@ -1,102 +1,21 @@
-\begin{thebibliography}{10}
+\begin{thebibliography}{2}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \providecommand{\bibinfo}[2]{#2}
 \ifx\xfnm\relax \def\xfnm[#1]{\unskip,\space#1}\fi
 %Type = Article
-\bibitem[{Tsang et~al.(2008)Tsang, Irwin, Wilson, Taylor, Lee, De~Kok,
-  Drossart, Piccioni, Bezard, and Calcutt}]{tsang2008tropospheric}
-\bibinfo{author}{C.~Tsang}, \bibinfo{author}{P.~Irwin},
-  \bibinfo{author}{C.~Wilson}, \bibinfo{author}{F.~Taylor},
-  \bibinfo{author}{C.~Lee}, \bibinfo{author}{R.~De~Kok},
-  \bibinfo{author}{P.~Drossart}, \bibinfo{author}{G.~Piccioni},
-  \bibinfo{author}{B.~Bezard}, \bibinfo{author}{S.~Calcutt},
-\newblock \bibinfo{title}{Tropospheric carbon monoxide concentrations and
-  variability on venus from venus express/virtis-m observations},
-\newblock \bibinfo{journal}{Journal of Geophysical Research E}
-  \bibinfo{volume}{113} (\bibinfo{year}{2008}) \bibinfo{pages}{Art--No}.
+\bibitem[{Choi et~al.(2005)Choi, Cichocki, Park, and Lee}]{choi2005blind}
+\bibinfo{author}{S.~Choi}, \bibinfo{author}{A.~Cichocki},
+  \bibinfo{author}{H.~Park}, \bibinfo{author}{S.~Lee},
+\newblock \bibinfo{title}{Blind source separation and independent component
+  analysis: A review},
+\newblock \bibinfo{journal}{Neural Information Processing-Letters and Reviews}
+  \bibinfo{volume}{6} (\bibinfo{year}{2005}) \bibinfo{pages}{1--57}.
 %Type = Article
-\bibitem[{Tsang et~al.(2010)Tsang, Wilson, Barstow, Irwin, Taylor, McGouldrick,
-  Piccioni, Drossart, and Svedhem}]{tsang2010correlations}
-\bibinfo{author}{C.~Tsang}, \bibinfo{author}{C.~Wilson},
-  \bibinfo{author}{J.~Barstow}, \bibinfo{author}{P.~Irwin},
-  \bibinfo{author}{F.~Taylor}, \bibinfo{author}{K.~McGouldrick},
-  \bibinfo{author}{G.~Piccioni}, \bibinfo{author}{P.~Drossart},
-  \bibinfo{author}{H.~Svedhem},
-\newblock \bibinfo{title}{Correlations between cloud thickness and sub-cloud
-  water abundance on venus},
-\newblock \bibinfo{journal}{Geophysical Research Letters} \bibinfo{volume}{37}
-  (\bibinfo{year}{2010}) \bibinfo{pages}{L02202}.
-%Type = Article
-\bibitem[{Marcq et~al.(2005)Marcq, Bézard, Encrenaz, and
-  Birlan}]{marcq2005latitudinal}
-\bibinfo{author}{E.~Marcq}, \bibinfo{author}{B.~Bézard},
-  \bibinfo{author}{T.~Encrenaz}, \bibinfo{author}{M.~Birlan},
-\newblock \bibinfo{title}{Latitudinal variations of co and ocs in the lower
-  atmosphere of venus from near-infrared nightside spectro-imaging},
-\newblock \bibinfo{journal}{Icarus} \bibinfo{volume}{179}
-  (\bibinfo{year}{2005}) \bibinfo{pages}{375 -- 386}.
-%Type = Article
-\bibitem[{Tsang et~al.(2009)Tsang, Taylor, Wilson, Liddell, Irwin, Piccioni,
-  Drossart, and Calcutt}]{tsang2009variability}
-\bibinfo{author}{C.~Tsang}, \bibinfo{author}{F.~Taylor},
-  \bibinfo{author}{C.~Wilson}, \bibinfo{author}{S.~Liddell},
-  \bibinfo{author}{P.~Irwin}, \bibinfo{author}{G.~Piccioni},
-  \bibinfo{author}{P.~Drossart}, \bibinfo{author}{S.~Calcutt},
-\newblock \bibinfo{title}{Variability of co concentrations in the venus
-  troposphere from venus express/virtis using a band ratio technique},
-\newblock \bibinfo{journal}{Icarus} \bibinfo{volume}{201}
-  (\bibinfo{year}{2009}) \bibinfo{pages}{432 -- 443}.
-%Type = Article
-\bibitem[{Marcq et~al.(2008)Marcq, B{\'e}zard, Drossart, Piccioni, Reess, and
-  Henry}]{marcq2008latitudinal}
-\bibinfo{author}{E.~Marcq}, \bibinfo{author}{B.~B{\'e}zard},
-  \bibinfo{author}{P.~Drossart}, \bibinfo{author}{G.~Piccioni},
-  \bibinfo{author}{J.~Reess}, \bibinfo{author}{F.~Henry},
-\newblock \bibinfo{title}{A latitudinal survey of co, ocs, h2o, and so2 in the
-  lower atmosphere of venus: Spectroscopic studies using virtis-h},
-\newblock \bibinfo{journal}{Journal of Geophysical Research}
-  \bibinfo{volume}{113} (\bibinfo{year}{2008}) \bibinfo{pages}{E00B07}.
-%Type = Article
-\bibitem[{Peralta et~al.(2010)Peralta, {\'A}ngel et~al.}]{peralta2010spatial}
-\bibinfo{author}{J.~Peralta}, \bibinfo{author}{L.~{\'A}ngel}, et~al.,
-\newblock \bibinfo{title}{Spatial and temporal distribution of co2 um nlte
-  emission from nadir virtis-h/venus express observations}
-  (\bibinfo{year}{2010}).
-%Type = Article
-\bibitem[{Grassi et~al.(2010)Grassi, Migliorini, Montabone, Lebonnois,
-  Cardes{\`\i}n-Moinelo, Piccioni, Drossart, and Zasova}]{grassi2010thermal}
-\bibinfo{author}{D.~Grassi}, \bibinfo{author}{A.~Migliorini},
-  \bibinfo{author}{L.~Montabone}, \bibinfo{author}{S.~Lebonnois},
-  \bibinfo{author}{A.~Cardes{\`\i}n-Moinelo}, \bibinfo{author}{G.~Piccioni},
-  \bibinfo{author}{P.~Drossart}, \bibinfo{author}{L.~Zasova},
-\newblock \bibinfo{title}{Thermal structure of venusian nighttime mesosphere as
-  observed by virtis-venus express},
-\newblock \bibinfo{journal}{J. Geophys. Res} \bibinfo{volume}{115}
-  (\bibinfo{year}{2010}).
-%Type = Article
-\bibitem[{Cottini et~al.(2011)Cottini, Ignatiev, Piccioni, Drossart, Grassi,
-  and Markiewicz}]{cottini2011water}
-\bibinfo{author}{V.~Cottini}, \bibinfo{author}{N.~Ignatiev},
-  \bibinfo{author}{G.~Piccioni}, \bibinfo{author}{P.~Drossart},
-  \bibinfo{author}{D.~Grassi}, \bibinfo{author}{W.~Markiewicz},
-\newblock \bibinfo{title}{Water vapor near the cloud tops of venus from venus
-  express/virtis dayside data},
-\newblock \bibinfo{journal}{Icarus}  (\bibinfo{year}{2011}).
-%Type = Article
-\bibitem[{S{\'a}nchez-Lavega et~al.(2008)S{\'a}nchez-Lavega, Hueso, Piccioni,
-  Drossart, Peralta, P{\'e}rez-Hoyos, Wilson, Taylor, Baines, Luz
-  et~al.}]{sanchez2008variable}
-\bibinfo{author}{A.~S{\'a}nchez-Lavega}, \bibinfo{author}{R.~Hueso},
-  \bibinfo{author}{G.~Piccioni}, \bibinfo{author}{P.~Drossart},
-  \bibinfo{author}{J.~Peralta}, \bibinfo{author}{S.~P{\'e}rez-Hoyos},
-  \bibinfo{author}{C.~Wilson}, \bibinfo{author}{F.~Taylor},
-  \bibinfo{author}{K.~Baines}, \bibinfo{author}{D.~Luz}, et~al.,
-\newblock \bibinfo{title}{Variable winds on venus mapped in three dimensions},
-\newblock \bibinfo{journal}{Geophys. Res. Lett} \bibinfo{volume}{35}
-  (\bibinfo{year}{2008}).
-%Type = Book
-\bibitem[{Cox(2001)}]{cox2001allen}
-\bibinfo{author}{A.~Cox}, \bibinfo{title}{Allen's astrophysical quantities},
-  \bibinfo{publisher}{Springer Verlag}, \bibinfo{year}{2001}.
+\bibitem[{Parra and Sajda(2003)}]{parra2003blind}
+\bibinfo{author}{L.~Parra}, \bibinfo{author}{P.~Sajda},
+\newblock \bibinfo{title}{Blind source separation via generalized eigenvalue
+  decomposition},
+\newblock \bibinfo{journal}{The Journal of Machine Learning Research}
+  \bibinfo{volume}{4} (\bibinfo{year}{2003}) \bibinfo{pages}{1261--1269}.
 
 \end{thebibliography}

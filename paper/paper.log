@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.12.3)  3 DEC 2011 23:23
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.12.3)  4 DEC 2011 16:43
 entering extended mode
  %&-line parsing enabled.
 **paper.tex
@@ -340,18 +340,18 @@ Package: multicol 2008/12/05 v1.6h multicolumn formatting (FMi)
 ) (./paper.aux)
 \openout1 = `paper.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
 
 (/usr/share/texmf/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -407,67 +407,49 @@ driver: pdftex
 \@twocolumntrue 
 (1in=72.27pt, 1cm=28.45pt)
 -----------------------
-<earth-venus.jpg, id=1, 552.0625pt x 358.33875pt>
-File: earth-venus.jpg Graphic file (type jpg)
- <use earth-venus.jpg>
-<venuscircle.jpg, id=2, 98.769pt x 83.5923pt>
-File: venuscircle.jpg Graphic file (type jpg)
- <use venuscircle.jpg>
-Overfull \hbox (15.83324pt too wide) in paragraph at lines 76--76
+(./header.tex) (./abstract.tex) (./1.tex) (./fig1.tex
+<separation_visual.jpg, id=1, 338.76563pt x 247.67531pt>
+File: separation_visual.jpg Graphic file (type jpg)
+
+<use separation_visual.jpg> <ica_bss.png, id=2, 578.16pt x 433.62pt>
+File: ica_bss.png Graphic file (type png)
+
+<use ica_bss.png>) (./2.tex
+Overfull \hbox (15.83324pt too wide) in paragraph at lines 1--1
 []\OT1/cmr/bx/n/10 Blind Source Sep-a-ra-tion Based on Spatio-Temporal
- []
-
-
-Overfull \hbox (9.85414pt too wide) in paragraph at lines 107--107
-[]\OT1/cmr/bx/n/10 Blind Source Ex-trac-tion Us-ing Lin-ear Pre-dictabil-
  []
 
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 
-]
-<oddeveneffect.pdf, id=16, 587.19376pt x 442.65375pt>
-File: oddeveneffect.pdf Graphic file (type pdf)
- <use oddeveneffect.pdf>
-<redlowwn_bluehighwn.png, id=17, 538.01pt x 410.53375pt>
-File: redlowwn_bluehighwn.png Graphic file (type png)
-
-<use redlowwn_bluehighwn.png> [2 <./earth-venus.jpg> <./venuscircle.jpg>]
-[3 <./oddeveneffect.pdf> <./redlowwn_bluehighwn.png (PNG copy)>] (./paper.bbl
-Missing character: There is no Ã in font cmr8!
-Missing character: There is no © in font cmr8!
-
-Underfull \hbox (badness 2772) in paragraph at lines 68--78
-[]\OT1/cmr/m/n/8 D. Grassi, A. Miglior-ini, L. Montabone, S. Lebon-nois,
+]) (./3.tex
+Overfull \hbox (9.85414pt too wide) in paragraph at lines 1--1
+[]\OT1/cmr/bx/n/10 Blind Source Ex-trac-tion Us-ing Lin-ear Pre-dictabil-
  []
 
-) [4
+) (./4.tex) (./5.tex [2 <./separation_visual.jpg> <./ica_bss.png>])
+(./paper.bbl) [3
 
 ] (./paper.aux) ) 
 Here is how much of TeX's memory you used:
- 3491 strings out of 493848
- 45053 string characters out of 1152823
- 126399 words of memory out of 3000000
- 6707 multiletter control sequences out of 15000+50000
+ 3468 strings out of 493848
+ 44149 string characters out of 1152823
+ 122520 words of memory out of 3000000
+ 6663 multiletter control sequences out of 15000+50000
  8878 words of font info for 32 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
- 34i,13n,43p,1559b,297s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 34i,8n,43p,1580b,299s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx1
-0.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr
-/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texm
-f-texlive/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texmf-texlive/fo
-nts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-texlive/fonts/type1/pu
-blic/amsfonts/cm/cmr12.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfont
-s/cm/cmr7.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr8.pfb
-></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/shar
-e/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf-texl
-ive/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf-texlive/fonts/t
-ype1/public/amsfonts/cm/cmti7.pfb></usr/share/texmf-texlive/fonts/type1/public/
-amsfonts/cm/cmti8.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/
-cmtt8.pfb>
-Output written on paper.pdf (4 pages, 531378 bytes).
+0.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/
+share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-
+texlive/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-texlive/fonts
+/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-texlive/fonts/type1/public
+/amsfonts/cm/cmti10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/c
+m/cmti7.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmti8.pfb>
+</usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
+Output written on paper.pdf (3 pages, 332949 bytes).
 PDF statistics:
- 110 PDF objects out of 1000 (max. 8388607)
+ 52 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 

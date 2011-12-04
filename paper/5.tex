@@ -1,0 +1,65 @@
+\section{Validity of ICA-based BSS Algorithms for Real-World Data} 
+
+\subsection{Subsection}
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proide
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proide
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proide
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proide
+
+%We began with a broad survey of the current research on Venus atmospheric retrievals. Investigating the focus of other Venus research groups can be a useful guide for the choice of spectral windows, initial guess values, and atmospheric constituent selection in our experiments. The results of the survey show a strong interest in nightside retrievals of the 2.18 - 2.5 $\mu$m band (\citep{tsang2008tropospheric},\citep{tsang2010correlations},\citep{marcq2005latitudinal},\citep{tsang2009variability},\citep{marcq2008latitudinal}). There has also been some recent interest in daytime retrievals of the 4 - 5 $\mu$m band to characterize the non-LTE emissions of \ce{CO2} (\citep{peralta2010spatial},\citep{grassi2010thermal}).
+
+%While VIRTIS L1B products provide a one-to-one mapping between instrument pixels and wavelengths, we will adopt the ACOS method of describing spectral order dispersion with the polynomial $w = \alpha p^{2} + \beta p + \gamma$, where $w$ is wavenumber, $\alpha$ and $\beta$ represent wavelength resolution, $p$ is pixel number, and $\gamma$ is wavelength offset. The polynomial below describes the dispersion for the sixth spectral order.
+
+%\[
+%w = 2.6633\e{-3} p^{2} + 1.1301 p + 4001.2
+%\]
+
+%\noindent This form is mathematically convenient for the following reason: when we treat the polynomial coefficients as retrieval parameters, the retrieval adopts the semantics of solving for the lump effect of all Doppler shifts in the system. Thus, the dispersion polynomial provides a convenient way to account for the Doppler effects of unknown velocities; for VIRTIS-H retrievals, this allows us to sidestep unknowns in satellite velocity and Venus wind speed. 
+
+%\citet{cottini2011water} notes a pixel-dependent pattern noise called the ``odd-even'' effect, which is caused by the imperfect flat-field of the detector matrix. Her team chose to use only odd pixels for retrievals because it provided a better fit to their synthetic data. Figure~\ref{fig:oddeven} shows that the magnitude of the ``odd-even'' effect is comparable to the size of minor gas constituent signatures. Because we are skipping every other pixel and dropping the first nonphysical zero value, our dispersion polynomial for the sixth spectral order changes to the following:
+
+%\[
+%w = 0.010653 p^{2} + 2.2708 p + 4002.4
+%\]
+
+%\subsection{Venus ephemeris model}
+
+%ACOS uses a simple polynomial model based on day of year to calculate the Earth's distance from the sun. Since Venus's orbital period is 224.7 Earth days, we had to derive a new model that would be based both on Earth's year and day of year:
+
+%\[
+%d = .0049 \sin(2 \pi \frac{t + 21}{225}) + .72335
+%\]
+
+%\noindent where $d$ is solar distance in AU and $t$ is the number of days that have elapsed since April 11, 2006, 12PM, the day that Venus Express arrived at Venus.
+
+%\subsection{Wind model}
+
+%We use a simplified wind model based on \citet{sanchez2008variable} to describe the latitudinally dependent zonal windspeeds at the lower clouds (around 50 km). The zonal winds show a constant speed of -60$\pm$10 ms$^{-1}$ from the equator up to latitude $65^{\circ}$S and a steady decrease toward zero velocity at the poles.
+
+%\[
+%  v_{w}(\ell) = 
+%  \begin{cases} 
+%   -60 \text{ ms$^{-1}$} & \text{ for $\ell < 65^{\circ}$} \\ 
+%    1.96 |\ell| - 182.7 \text{ ms$^{-1}$}  & \text{ for $\ell \ge 65^{\circ}$ } 
+%  \end{cases}\\
+%\]
+
+%\noindent where $v_{w}$ is wind velocity and $\ell$ is latitude in degrees. The windspeeds above latitude $65^{\circ}$S were fit to figures from \citet{sanchez2008variable} using linear least squares.
+
+%ACOS currently only treats windspeed for Coxmunk surfaces. In this context, windspeed represents the speed at the surface of the ocean to model ocean churn for glint retrievals. 
+
+%\subsection{Index of refraction model}
+
+%The Rayleigh scattering cross-section is calculated using the following model from \citet{cox2001allen}:
+
+%\[
+%\sigma_{R} = \frac{24 \pi^{3}}{N_{s}^{2} \lambda^{4}} \frac{(n^{2} -1)^{2}}{(n^{2} + 2)^{2}} \frac{6 + 3 \rho}{6 - 7 \rho}
+%\]
+
+%\noindent where $\lambda$ is wavelength, $N_{s}$ is the number density of air at some pressure and temperature, $\rho$ is the depolarization factor, and $n_{s}$ is the index of refraction at the same pressure and temperature. According to Lorentz-Lorenz theory, the product of these two terms is invariant to pressure and temperature. 
+
+
